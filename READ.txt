@@ -1,4 +1,4 @@
 git init -starts a git
 git status -tells status
 git remote add origing ***********
-git remote -v - shows
+git remote -v - shows defefe
